@@ -1,0 +1,44 @@
+Repeat times: 100
+Number of tests: 10
+
+
+Renderer: Normal
+Type: 1 texture
+Sprites: 10     Draw calls: 10     Microseconds: 228
+
+Renderer: Normal
+Type: 1 texture
+Sprites: 50     Draw calls: 50     Microseconds: 252
+
+Renderer: Normal
+Type: 1 texture
+Sprites: 200     Draw calls: 200     Microseconds: 499
+
+Renderer: Normal
+Type: 1 texture
+Sprites: 1000     Draw calls: 1000     Microseconds: 1845
+
+Renderer: Normal
+Type: 1 texture
+Sprites: 5000     Draw calls: 5000     Microseconds: 8602
+
+Renderer: Normal
+Type: Max Textures alternated
+Sprites: 10     Draw calls: 10     Microseconds: 266
+
+Renderer: Normal
+Type: Max Textures alternated
+Sprites: 50     Draw calls: 50     Microseconds: 247
+
+Renderer: Normal
+Type: 1 texture
+Sprites: 0     Draw calls: 0     Microseconds: 0
+
+Renderer: Normal
+Type: 1 texture
+Sprites: 0     Draw calls: 0     Microseconds: 0
+
+Renderer: Normal
+Type: 1 texture
+Sprites: 0     Draw calls: 0     Microseconds: 0
+

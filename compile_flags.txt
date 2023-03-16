@@ -1,0 +1,9 @@
+-xc++
+-std=c++20
+
+-O
+-Wall
+-W
+-Wextra
+
+-I./src/vendor

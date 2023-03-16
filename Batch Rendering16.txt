@@ -1,0 +1,44 @@
+Repeat times: 100
+Number of tests: 10
+
+
+Renderer: Batch Renderer
+Type: 1 texture
+Sprites: 10     Draw calls: 1     Microseconds: 195
+
+Renderer: Batch Renderer
+Type: 1 texture
+Sprites: 50     Draw calls: 1     Microseconds: 178
+
+Renderer: Batch Renderer
+Type: 1 texture
+Sprites: 200     Draw calls: 1     Microseconds: 177
+
+Renderer: Batch Renderer
+Type: 1 texture
+Sprites: 1000     Draw calls: 1     Microseconds: 177
+
+Renderer: Batch Renderer
+Type: 1 texture
+Sprites: 5000     Draw calls: 5     Microseconds: 334
+
+Renderer: Batch Renderer
+Type: Max Textures alternated
+Sprites: 10     Draw calls: 1     Microseconds: 177
+
+Renderer: Batch Renderer
+Type: Max Textures alternated
+Sprites: 50     Draw calls: 4     Microseconds: 184
+
+Renderer: Batch Renderer
+Type: Max Textures alternated
+Sprites: 200     Draw calls: 13     Microseconds: 216
+
+Renderer: Batch Renderer
+Type: Max Textures alternated
+Sprites: 1000     Draw calls: 63     Microseconds: 469
+
+Renderer: Batch Renderer
+Type: Max Textures alternated
+Sprites: 5000     Draw calls: 313     Microseconds: 1812
+
